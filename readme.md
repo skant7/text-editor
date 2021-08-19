@@ -2,9 +2,6 @@
 
 ## functionalities:-
 
---view and edit text
---search for text
---syntax highlighting
-
- 
-
+- view and edit text
+- search for text
+- syntax highlighting
